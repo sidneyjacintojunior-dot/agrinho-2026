@@ -1,26 +1,18 @@
-# 🌾 Agrinho Escolar 2026: Tecnologia e Sustentabilidade no Campo
+# 🌾 Inovação Verde: Tecnologia Aplicada à Agricultura Sustentável
 
 ## 📌 Sobre o Projeto
-Este projeto foi desenvolvido para o **Programa Agrinho 2026**, com o objetivo de conectar os alunos da nossa escola às práticas agrícolas sustentáveis através da tecnologia. 
+Este repositório hospeda uma solução digital desenvolvida para o **Concurso Agrinho 2026**. O objetivo principal é aplicar ferramentas tecnológicas para resolver desafios reais do cenário agrícola atual, promovendo a conscientização ambiental, a preservação de recursos naturais e o desenvolvimento sustentável.
 
-Criamos uma solução digital para [insira o objetivo aqui, ex: monitorar o consumo de água na horta escolar / catalogar plantas medicinais da região / conscientizar sobre a reciclagem].
+A aplicação foca em [insira a proposta central aqui, ex: otimização do uso de água / mapeamento de técnicas de manejo de solo / combate ao desperdício].
 
-## 🚀 Funcionalidades
-* **Painel Interativo:** Visualização de dados sobre sustentabilidade.
-* **Guia Verde:** Dicas rápidas de cultivo e preservação ambiental para estudantes.
-* **Calculadora Ecológica:** Ferramenta para medir o impacto do desperdício de alimentos.
+## 🚀 Funcionalidades Principais
+* **Módulo de Conscientização:** Conteúdo dinâmico sobre práticas agrícolas ecologicamente corretas.
+* **Simulador de Impacto:** Ferramenta interativa para calcular a economia de recursos (água/energia).
+* **Interface Responsiva:** Design adaptável para acesso via computadores e dispositivos móveis.
 
 ## 🛠️ Tecnologias Utilizadas
-* **HTML5 & CSS3:** Para a estrutura e o design da página web.
-* **JavaScript:** Para trazer interatividade aos menus e calculadoras.
-* * [Adicione outras tecnologias se usar, como Python, Arduino, etc.] *
+* **Frontend:** HTML5, CSS3 e JavaScript.
+* **Documentação:** Markdown para registro de dados e relatórios.
 
-## 👥 Equipe Desenvolvedora
-* **Aluno(a) 1** - [GitHub do Aluno 1](https://github.com/)
-* **Aluno(a) 2** - [GitHub do Aluno 2](https://github.com/)
-* **Professor(a) Orientador(a):** Nome do Professor
-
-## 🏫 Instituição
-* **Escola:** [Nome da sua Escola]
-* **Cidade/Estado:** [Sua Cidade - UF]
-* **Ano:** 2026# agrinho-2026
+## 📄 Licença
+Este projeto está sob a licença MIT. Sinta-se livre para estudar, modificar e replicar o código para fins educacionais e socioambientais.
